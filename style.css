@@ -1,0 +1,43 @@
+body, div,ul{
+    padding: 0;
+    margin: 0;
+}
+form{
+    margin-left: 2%;
+}
+#submit-button{
+    display: block;
+    margin: 20px 0;
+    padding: 5px;
+    border-radius: 10px;
+    background: lightgreen;
+    border:1px solid 
+}
+#texts{
+    width: 50%;
+    
+}
+li{
+    list-style: none;
+    padding: 15px;
+    background-color: lemonchiffon;
+    width:60%;
+    margin: 4px;
+    border-radius: 15px;
+
+}
+textarea{
+    background-color: lemonchiffon;
+    border-radius: 15px;
+}
+h2{
+    margin-left: 25px;
+}
+h1{
+    margin-left: 25px;
+}
+
+body{
+    background-color: lightsteelblue;
+    font-style: italic;
+}
